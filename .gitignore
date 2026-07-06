@@ -1,7 +1,14 @@
 .wallpapers+/
 wp\ inbox/
+
+# MacOS
 .DS_Store
+wp/.DS_Store
+2k/.DS_Store
+fhd/.DS_Store
 
-
-
+linux/.DS_Store
+linux/nixos/.DS_Store
+linux/arch/.DS_Store
+linux/fedora/.DS_Store
 
