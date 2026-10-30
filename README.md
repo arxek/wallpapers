@@ -1,5 +1,8 @@
 # wallpapers
 
+![currently used](wp/eclipse.jpg)
+wallpaper I currently use
+
 ## Categories
 - **wp:** wallpapers I use/would consider using. All are 2k+.
 - **2k:** 2k resolution. Good for MacBooks.
